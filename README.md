@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- React
+- ReactJs
 - Firebase
 - TypeScript
 - Yarn
